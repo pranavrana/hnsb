@@ -1,0 +1,21 @@
+{
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_746916cb2eefe2cdeb1f18fad8d26f9c"
+    },
+    "font awesome 5 free": {
+        "normal": "C:\\xampp\\htdocs\\HNSB\\storage\\fonts\/font_awesome_5_free_normal_95d51291688524a702e8d7a64510299b",
+        "900": "font_awesome_5_free_900_3fb83d316a1f214ba711781d5a24be61"
+    },
+    "simple-line-icons": {
+        "normal": "simple_line_icons_normal_823b6251c68758538372eb3c47eb3fa9"
+    },
+    "weathericons": {
+        "normal": "weathericons_normal_3fb053add748b446965f87c90a685080"
+    },
+    "open sans": {
+        "normal": "open_sans_normal_8970cad5a903fd7e6655afa6a0ec0ec2"
+    },
+    "anekgujarati": {
+        "normal": "anekgujarati_normal_720b02fea831b9f85b50899ffffc6fc6"
+    }
+}
